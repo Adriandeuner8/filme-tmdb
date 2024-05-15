@@ -1,11 +1,11 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-    padding: 2rem;
+    padding: 1.5rem;
 
     h1 {
         text-align: center;
-        margin: 2rem 0;
+        margin: 1rem 0;
     }
 `;
 

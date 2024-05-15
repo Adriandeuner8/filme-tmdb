@@ -4,8 +4,6 @@ import Home from "./pages/home";
 import Movie from "./pages/movie";
 
 
-
-
 const App = () => {
     return (
         <div>
